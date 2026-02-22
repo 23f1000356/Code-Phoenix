@@ -107,6 +107,23 @@ The platform supports multiple revenue models, including paid expansion cases, c
 - **Waiting Lobby**: Team assembly and role assignment interface
 - **Cipher Room**: Cryptographic puzzle solving for vault access
 
+### Visual Documentation
+
+#### All Rooms Overview
+![All Rooms](images/all%20rooms.jpeg)
+
+#### Waiting Lobby
+![Waiting Lobby](images/waiting%20room.jpeg)
+
+#### Cipher Room
+![Cipher Room](images/cipher%20room.jpeg)
+
+#### Clock Game
+![Clock Game](images/clock%20game.jpeg)
+
+#### Case Close
+![Case Close](images/case%20close.jpeg)
+
 ## 7. How to Run
 
 ### Prerequisites
