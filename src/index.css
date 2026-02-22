@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --clr-bg-surface: rgba(20, 20, 25, 0.95);
+  --clr-bg-success: #22c55e;
+  --clr-border: rgba(255, 255, 255, 0.2);
+  --clr-text-main: #ededed;
+  --clr-text-muted: #9c9c9c;
+  --clr-accent-gold: #c6a15b;
+  --clr-alert: #ef4444;
+}
+
+@layer utilities {
+  @keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.97); }
+    to   { opacity: 1; transform: scale(1); }
+  }
+
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25%       { transform: translateX(-10px); }
+    75%       { transform: translateX(10px); }
+  }
+
+  @keyframes flicker {
+    0%, 100% { opacity: 1;    transform: scaleX(1); }
+    25%       { opacity: 0.8;  transform: scaleX(0.95); }
+    50%       { opacity: 1;    transform: scaleX(1.05); }
+    75%       { opacity: 0.9;  transform: scaleX(0.98); }
+  }
+
+  .animate-fadeIn {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .animate-shake {
+    animation: shake 0.5s ease-in-out;
+  }
+
+  .animate-flicker {
+    animation: flicker 2s ease-in-out infinite;
+  }
+}
+

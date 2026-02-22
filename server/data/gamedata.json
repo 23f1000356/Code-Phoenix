@@ -1,0 +1,485 @@
+{
+  "users": {
+    "8M6YPkxRj1": {
+      "id": "8M6YPkxRj1",
+      "username": "abhishek",
+      "createdAt": "2026-02-22T04:22:43.724Z",
+      "lastPlayed": null,
+      "totalGames": 0,
+      "totalWins": 0,
+      "totalScore": 0,
+      "totalHintsUsed": 0,
+      "bestTime": null,
+      "bestScore": null,
+      "matchHistory": []
+    },
+    "IYs8foUfKY": {
+      "id": "IYs8foUfKY",
+      "username": "Agent952",
+      "createdAt": "2026-02-22T04:25:21.871Z",
+      "lastPlayed": null,
+      "totalGames": 0,
+      "totalWins": 0,
+      "totalScore": 0,
+      "totalHintsUsed": 0,
+      "bestTime": null,
+      "bestScore": null,
+      "matchHistory": [],
+      "puzzleStats": {
+        "mirror": {
+          "timesAttempted": 1,
+          "timesCompleted": 1,
+          "totalTime": 0,
+          "totalHints": 0,
+          "totalWrongAttempts": 0
+        },
+        "piano": {
+          "timesAttempted": 1,
+          "timesCompleted": 1,
+          "totalTime": 0,
+          "totalHints": 0,
+          "totalWrongAttempts": 0
+        },
+        "furniture": {
+          "timesAttempted": 1,
+          "timesCompleted": 1,
+          "totalTime": 0,
+          "totalHints": 0,
+          "totalWrongAttempts": 0
+        },
+        "clock": {
+          "timesAttempted": 1,
+          "timesCompleted": 1,
+          "totalTime": 0,
+          "totalHints": 0,
+          "totalWrongAttempts": 0
+        },
+        "wall": {
+          "timesAttempted": 2,
+          "timesCompleted": 2,
+          "totalTime": 0,
+          "totalHints": 0,
+          "totalWrongAttempts": 0
+        }
+      }
+    }
+  },
+  "gameSessions": {
+    "game_1771734163728_tpxv0dzpu": {
+      "id": "game_1771734163728_tpxv0dzpu",
+      "roomCode": "VKMMFP",
+      "hostId": "8M6YPkxRj1",
+      "difficulty": "normal",
+      "createdAt": "2026-02-22T04:22:43.728Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771734321873_l9cbcf1sr": {
+      "id": "game_1771734321873_l9cbcf1sr",
+      "roomCode": "solo",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "solo",
+      "createdAt": "2026-02-22T04:25:21.873Z",
+      "startedAt": "2026-02-22T04:25:21.874Z",
+      "endedAt": null,
+      "duration": null,
+      "status": "playing",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "IYs8foUfKY",
+          "role": "Operator",
+          "puzzle": "all",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771734424513_pw79rutku": {
+      "id": "game_1771734424513_pw79rutku",
+      "roomCode": "solo",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "solo",
+      "createdAt": "2026-02-22T04:27:04.513Z",
+      "startedAt": "2026-02-22T04:27:04.515Z",
+      "endedAt": null,
+      "duration": null,
+      "status": "playing",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "IYs8foUfKY",
+          "role": "Operator",
+          "puzzle": "all",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771734475313_jmn11kwho": {
+      "id": "game_1771734475313_jmn11kwho",
+      "roomCode": "solo",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "solo",
+      "createdAt": "2026-02-22T04:27:55.313Z",
+      "startedAt": "2026-02-22T04:27:55.315Z",
+      "endedAt": null,
+      "duration": null,
+      "status": "playing",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "IYs8foUfKY",
+          "role": "Operator",
+          "puzzle": "all",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771734524631_rgjsdnnyg": {
+      "id": "game_1771734524631_rgjsdnnyg",
+      "roomCode": "9ROUMX",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:28:44.631Z",
+      "startedAt": "2026-02-22T04:30:38.731Z",
+      "endedAt": "2026-02-22T04:34:54.752Z",
+      "duration": 256,
+      "status": "finished",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "TnTe2i8T_4uO1QnWAAAB",
+          "role": "Investigator",
+          "puzzle": "clock",
+          "completedAt": null
+        },
+        {
+          "userId": "8M6YPkxRj1",
+          "role": "Observer",
+          "puzzle": "furniture",
+          "completedAt": null
+        },
+        {
+          "userId": "TnTe2i8T_4uO1QnWAAAB",
+          "role": "Analyst",
+          "puzzle": "clock",
+          "completedAt": null
+        },
+        {
+          "userId": "8M6YPkxRj1",
+          "role": "Technician",
+          "puzzle": "furniture",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771734866140_2mi6y8lhv": {
+      "id": "game_1771734866140_2mi6y8lhv",
+      "roomCode": "JZ3QN5",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:34:26.140Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771735688886_8w5ubzf1n": {
+      "id": "game_1771735688886_8w5ubzf1n",
+      "roomCode": "qEMrxg",
+      "hostId": "8M6YPkxRj1",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:48:08.886Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771735810389_nphp7z3al": {
+      "id": "game_1771735810389_nphp7z3al",
+      "roomCode": "dfK_dg",
+      "hostId": "8M6YPkxRj1",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:50:10.389Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771735967468_ea633b30q": {
+      "id": "game_1771735967468_ea633b30q",
+      "roomCode": "-8Lj9n",
+      "hostId": "8M6YPkxRj1",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:52:47.468Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771736139162_4johhh1f9": {
+      "id": "game_1771736139162_4johhh1f9",
+      "roomCode": "fTSCfi",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:55:39.162Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771736230202_kkgjxvdnw": {
+      "id": "game_1771736230202_kkgjxvdnw",
+      "roomCode": "uvUliQ",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:57:10.202Z",
+      "startedAt": null,
+      "endedAt": null,
+      "duration": null,
+      "status": "waiting",
+      "success": false,
+      "finalScore": 0,
+      "participants": []
+    },
+    "game_1771736310748_dyvu5r6i6": {
+      "id": "game_1771736310748_dyvu5r6i6",
+      "roomCode": "S0CA77",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T04:58:30.748Z",
+      "startedAt": "2026-02-22T05:01:34.744Z",
+      "endedAt": null,
+      "duration": null,
+      "status": "playing",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "Rmxdbj_NX8fqIZFjAAAB",
+          "role": "Technician",
+          "puzzle": "mirror",
+          "completedAt": null
+        },
+        {
+          "userId": "8M6YPkxRj1",
+          "role": "Observer",
+          "puzzle": "piano",
+          "completedAt": null
+        },
+        {
+          "userId": "Rmxdbj_NX8fqIZFjAAAB",
+          "role": "Analyst",
+          "puzzle": "mirror",
+          "completedAt": null
+        },
+        {
+          "userId": "8M6YPkxRj1",
+          "role": "Investigator",
+          "puzzle": "clock",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771736786318_kgvypcetp": {
+      "id": "game_1771736786318_kgvypcetp",
+      "roomCode": "4MPGIP",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T05:06:26.319Z",
+      "startedAt": "2026-02-22T05:06:49.229Z",
+      "endedAt": "2026-02-22T05:16:53.337Z",
+      "duration": 604,
+      "status": "finished",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "ZYnpESdLuaP-7gpqAAAB",
+          "role": "Observer",
+          "puzzle": "piano",
+          "completedAt": null
+        },
+        {
+          "userId": "yvFSl36GoI",
+          "role": "Technician",
+          "puzzle": "furniture",
+          "completedAt": null
+        }
+      ]
+    },
+    "game_1771737273183_l95rpqkhs": {
+      "id": "game_1771737273183_l95rpqkhs",
+      "roomCode": "T2I6PZ",
+      "hostId": "IYs8foUfKY",
+      "difficulty": "normal",
+      "mode": "multiplayer",
+      "createdAt": "2026-02-22T05:14:33.183Z",
+      "startedAt": "2026-02-22T05:15:48.810Z",
+      "endedAt": "2026-02-22T05:25:52.834Z",
+      "duration": 604,
+      "status": "finished",
+      "success": false,
+      "finalScore": 0,
+      "participants": [
+        {
+          "userId": "J1iOOxt8gJKLFHhFAAAF",
+          "role": "Observer",
+          "puzzle": "mirror",
+          "completedAt": null
+        },
+        {
+          "userId": "IYs8foUfKY",
+          "role": "Technician",
+          "puzzle": "piano",
+          "completedAt": null
+        }
+      ]
+    }
+  },
+  "puzzleEvents": {
+    "game_1771736310748_dyvu5r6i6": [
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "mirror",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T04:59:57.657Z"
+      }
+    ],
+    "game_1771736786318_kgvypcetp": [
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "piano",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T05:07:17.966Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "unknown",
+        "eventType": "hint_used",
+        "timeSeconds": 0,
+        "hintsUsed": 1,
+        "wrongAttempts": 0,
+        "timestamp": "2026-02-22T05:09:09.183Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "unknown",
+        "eventType": "hint_used",
+        "timeSeconds": 0,
+        "hintsUsed": 1,
+        "wrongAttempts": 0,
+        "timestamp": "2026-02-22T05:09:11.054Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "unknown",
+        "eventType": "hint_used",
+        "timeSeconds": 0,
+        "hintsUsed": 1,
+        "wrongAttempts": 0,
+        "timestamp": "2026-02-22T05:09:11.942Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "furniture",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T05:10:00.571Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "clock",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T05:10:33.369Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "wall",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T05:10:49.256Z"
+      }
+    ],
+    "game_1771737273183_l95rpqkhs": [
+      {
+        "userId": "IYs8foUfKY",
+        "puzzleName": "wall",
+        "eventType": "solved",
+        "timestamp": "2026-02-22T05:17:49.841Z"
+      }
+    ]
+  },
+  "chatMessages": {
+    "game_1771734524631_rgjsdnnyg": [
+      {
+        "userId": "IYs8foUfKY",
+        "username": "Agent952",
+        "message": "cdsada",
+        "timestamp": "2026-02-22T04:29:21.369Z"
+      }
+    ],
+    "game_1771736310748_dyvu5r6i6": [
+      {
+        "userId": "IYs8foUfKY",
+        "username": "Agent952",
+        "message": "hi",
+        "timestamp": "2026-02-22T04:59:06.869Z"
+      },
+      {
+        "userId": "8M6YPkxRj1",
+        "username": "abhishek",
+        "message": "dsdsfsf",
+        "timestamp": "2026-02-22T04:59:12.709Z"
+      }
+    ],
+    "game_1771737273183_l95rpqkhs": [
+      {
+        "userId": "IYs8foUfKY",
+        "username": "vishakha",
+        "message": "hello",
+        "timestamp": "2026-02-22T05:16:07.585Z"
+      },
+      {
+        "userId": "IYs8foUfKY",
+        "username": "vishakha",
+        "message": "clue?",
+        "timestamp": "2026-02-22T05:16:12.646Z"
+      }
+    ]
+  },
+  "leaderboard": {}
+}
